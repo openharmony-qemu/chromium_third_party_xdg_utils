@@ -1,8 +1,8 @@
 [
     {
         "Name": "chromium_third_party_xdg_utils",                   # 上游开源软件名全称
-        "License": ,         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"     # 许可证所在文件路径
+        "License": "MIT",         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",   # 许可证所在文件路径
         "Version Number": "d80274d5869b17b8c9067a1022e4416ee7ed5e0d",
         "Upstream URL": "https://chromium.googlesource.com/chromium/deps/xdg-utils.git@d80274d5869b17b8c9067a1022e4416ee7ed5e0d",   # 上游软件包发布地址
         "Description": "第三方软件xdg-utils"           # 开源软件功能描述
