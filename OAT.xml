@@ -69,11 +69,11 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                 <filteritem type="filepath" name="tests/include/system_info"
-                desc="chrom原生文件无license" />
+                desc="chromium原生文件无license" />
                 <filteritem type="filepath" name="RELEASE_NOTES"
-                desc="chrom原生文件无license" />
+                desc="chromium原生文件无license" />
                 <filteritem type="filepath" name="tests/include/linux_distro"
-                desc="chrom原生文件无license" />
+                desc="chromium原生文件无license" />
             </filefilter>
 
             <filefilter name="defaultFilter">
@@ -81,15 +81,15 @@ used to filter file path.
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter">
                 <filteritem type="filename" name="*.png"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filename" name="*.xcf"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filename" name="*.odt"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filename" name="*.pdf"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filepath" name="tests/xdg-utils-usecases/data/testfile" 
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
             </filefilter>
         </filefilterlist>
         <licensematcherlist>
