@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "xdg-utils",                  
+        "License": "MIT",        
+        "License File": "LICENSE",  
+        "Version Number": "d80274d5869b17b8c9067a1022e4416ee7ed5e0d",
+        "Owner": "jinchanggang@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/xdg-utils.git@d80274d5869b17b8c9067a1022e4416ee7ed5e0d",   
+        "Description": "第三方软件xdg-utils"         
+    }
+]
